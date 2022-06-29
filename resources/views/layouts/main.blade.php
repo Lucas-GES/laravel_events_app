@@ -59,7 +59,7 @@
     </main>
 
     <footer>
-        <p>HBC Events &copy; 2020</p>
+        <p>HBC Events &copy; 2022</p>
     </footer>
     <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>
 </body>
